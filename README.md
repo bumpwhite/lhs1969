@@ -1,2 +1,2 @@
 # lhs1969
-HS class
+High School class
